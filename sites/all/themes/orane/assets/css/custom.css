@@ -1,0 +1,61 @@
+/*
+Add your custom css here. Do not touch on style-color-name.css files
+*/
+
+#block-block-65 {
+background-color: #c4c42f;
+}
+
+
+.dexp-shortcodes-box.box-center.box-none h3.box-title {
+    text-align-last: center;
+}
+
+
+#block-block-81 .row img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}  
+
+#section-tag-line h2 {
+	text-align: center;
+}
+
+#block-block-1 h2 {
+	color: white;
+}
+
+
+
+#contact-site-form .form-type-textfield {
+    width: 250px;
+
+}
+
+#contact-site-form textarea {
+    width: 250px;
+}
+
+
+.new27 .nomP a {
+   display: none !important;
+}
+
+#section-subscribe {
+    background: none;
+}
+
+#dexp-dropdown .menu > li a {
+
+text-align:center;
+max-width: 150px;
+line-height: 20px !important;
+padding-bottom: 5px !important;
+border-bottom: 3px solid;
+
+}
+
+#section-header {
+	min-height: 185px;
+}
